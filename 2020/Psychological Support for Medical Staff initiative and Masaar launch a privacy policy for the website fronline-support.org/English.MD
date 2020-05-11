@@ -1,3 +1,4 @@
+# Psychological Support for Medical Staff initiative and Masaar launch a privacy policy for the website fronline-support.org
 ![](https://masaar.net/wp-content/uploads/2020/04/coveren.png)
 
 A group of doctors and psychologists launched an initiative to provide psychological support, in its various forms, for medical staff working on the frontlines in fighting the novel coronavirus (COVID-19) in Egypt.
