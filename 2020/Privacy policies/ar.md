@@ -179,6 +179,3 @@ method Attribute” ، تاريخ الزيارة: 20 إبريل2020 ، الرا�
 10موقع Mixpanel Help Center ، قسم (Data and Implementation) قسم فرعي (Data Security and Privacy) عنوان الصفحة (Export or Delete End User Data) الرابط: [https://help.mixpanel.com/hc/en-us/articles/360000881023-Export-or-Delete-End-User-Data](https://help.mixpanel.com/hc/en-us/articles/360000881023-Export-or-Delete-End-User-Data)
 
 11موقع Mixpanel Help Center ، قسم ( Data and Implementation ) قسم فرعي ( Data Security and Privacy ) عنوان الصفحة ( Tracking Truly Anonymous Data ) الرابط:[https://help.mixpanel.com/hc/en-us/articles/360000791746-Tracking-Truly-Anonymous-Data](https://help.mixpanel.com/hc/en-us/articles/360000791746-Tracking-Truly-Anonymous-Data)
-
-## تصفّح المقالا
- 
